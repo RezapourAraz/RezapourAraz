@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezapouraraz&show_icons=true&locale=en&layout=compact" alt="rezapouraraz" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezapouraraz&" alt="rezapouraraz" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezapouraraz&" alt="rezapouraraz" /></p>
