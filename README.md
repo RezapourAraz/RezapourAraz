@@ -11,9 +11,6 @@ I'm Araz Rezapour FrontEnd Developer.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RezapourAraz&theme=tokyonight&hide_border=true)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=RezapourAraz&icon=0&color=3)](https://visitcount.itsvg.in)
 
